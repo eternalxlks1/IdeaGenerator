@@ -1,8 +1,8 @@
 // Arrays of adjectives and nouns. Feel free to change these!
 const adjectives = [
-  "creative",
-  "shiny",
-  "mysterious",
+  "amazing",
+  "coding",
+  "roblox",
   "fuzzy",
   "colorful",
   "wild",
